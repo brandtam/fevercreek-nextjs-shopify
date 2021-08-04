@@ -55,7 +55,7 @@ const CartSidebarView: FC = () => {
           <Bag />
           Your cart is empty
           <Text>
-            Biscuit oat cake wafer icing ice cream tiramisu pudding cupcake.
+            Please find something you like!
           </Text>
         </>
       ) : (
